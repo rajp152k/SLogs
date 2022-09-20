@@ -36,3 +36,11 @@
 	## N.C.L
 	## Cmnts
 ```
+
+## Relevance
+
+ - Most logs are supposed to be about language tools being installed and not the editor being used
+ - for the sake of completeness:
+	- for development purposes : VS code
+	- for scripting purposes : minimally customized vi
+	- for writing cycle : Emacs (yet to be configured)
