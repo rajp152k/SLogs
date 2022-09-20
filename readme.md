@@ -28,19 +28,21 @@
 	4. Comments (`## Cmnts`)
 
 ```
-	# Time: 
-	# Summary
-	## Expctns
-	## S.E.U
-	## S.E.P.C
-	## N.C.L
-	## Cmnts
+# Time: 
+# Summary
+## Expctns
+## S.E.U
+## S.E.P.C
+## N.C.L
+## Cmnts
 ```
 
 ## Relevance
 
  - Most logs are supposed to be about language tools being installed and not the editor being used
  - for the sake of completeness:
-	- for development purposes : VS code
+	- for development purposes in non-lispy languages : VS code
+		- and testing out new source
 	- for scripting purposes : minimally customized vi
 	- for writing cycle : Emacs (yet to be configured)
+		- and development in lisp dialects
