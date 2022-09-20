@@ -4,6 +4,7 @@
 
  - Linux Raj-Y520 5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
  - Description:	Ubuntu 22.04.1 LTS
+ - Time of Log initialization : Tue Sep 20 05:36:28 AM UTC 2022
 
 ## Incentive
 
